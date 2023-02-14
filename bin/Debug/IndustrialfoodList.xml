@@ -1,0 +1,26 @@
+<industrialfoodList>
+<industrialfood>
+<id>i01</id>
+<expireDate>2020-08-09</expireDate>
+<name>오뚜기카레 순한맛 1개</name>
+<numStock>50</numStock>
+<price>2000</price>
+<isSoldOut>0</isSoldOut>
+</industrialfood>
+<industrialfood>
+<id>i02</id>
+<expireDate>2020-06-27</expireDate>
+<name>건강 샌드위치 1개</name>
+<numStock>0</numStock>
+<price>3000</price>
+<isSoldOut>1</isSoldOut>
+</industrialfood>
+<industrialfood>
+<id>i03</id>
+<expireDate>2020-06-30</expireDate>
+<name>치즈불닭 삼각김밥 1개</name>
+<numStock>10</numStock>
+<price>15000</price>
+<isSoldOut>0</isSoldOut>
+</industrialfood>
+</industrialfoodList>

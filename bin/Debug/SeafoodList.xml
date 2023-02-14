@@ -1,0 +1,42 @@
+<seafoodList>
+<seafood>
+<id>f01</id>
+<storage>실온</storage>
+<name>파래김 50매</name>
+<numStock>50</numStock>
+<price>5000</price>
+<isSoldOut>0</isSoldOut>
+</seafood>
+<seafood>
+<id>f02</id>
+<storage>냉장</storage>
+<name>반건조오징어 1마리</name>
+<numStock>27</numStock>
+<price>10000</price>
+<isSoldOut>0</isSoldOut>
+</seafood>
+<seafood>
+<id>f03</id>
+<storage>냉장</storage>
+<name>쭈꾸미 5마리</name>
+<numStock>60</numStock>
+<price>80000</price>
+<isSoldOut>0</isSoldOut>
+</seafood>
+<seafood>
+<id>f04</id>
+<storage>냉동</storage>
+<name>바지락 1kg</name>
+<numStock>10</numStock>
+<price>10000</price>
+<isSoldOut>0</isSoldOut>
+</seafood>
+<seafood>
+<id>f05</id>
+<storage>냉장</storage>
+<name>국물용 멸치 1kg</name>
+<numStock>25</numStock>
+<price>20000</price>
+<isSoldOut>0</isSoldOut>
+</seafood>
+</seafoodList>

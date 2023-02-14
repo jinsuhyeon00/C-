@@ -1,0 +1,34 @@
+<vegetableList>
+<vegetable>
+<id>v01</id>
+<housingDate>2020-06-04</housingDate>
+<name>치커리 1봉지</name>
+<numStock>50</numStock>
+<price>2000</price>
+<isSoldOut>0</isSoldOut>
+</vegetable>
+<vegetable>
+<id>v02</id>
+<housingDate>2020-06-05</housingDate>
+<name>파프리카 3종 </name>
+<numStock>92</numStock>
+<price>3000</price>
+<isSoldOut>0</isSoldOut>
+</vegetable>
+<vegetable>
+<id>v03</id>
+<housingDate>2020-06-03</housingDate>
+<name>거봉 1.5kg</name>
+<numStock>0</numStock>
+<price>30000</price>
+<isSoldOut>1</isSoldOut>
+</vegetable>
+<vegetable>
+<id>v04</id>
+<housingDate>2020-06-08</housingDate>
+<name>사과 6입</name>
+<numStock>48</numStock>
+<price>13000</price>
+<isSoldOut>0</isSoldOut>
+</vegetable>
+</vegetableList>

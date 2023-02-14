@@ -1,0 +1,20 @@
+C:\Users\진수현\source\repos\GUS20S_Project2_1_진수현_201921093\GUS20S_Project2_1_진수현_201921093\obj\Debug\GUS20S_Project2_1_진수현_201921093.csprojAssemblyReference.cache
+C:\Users\진수현\source\repos\GUS20S_Project2_1_진수현_201921093\GUS20S_Project2_1_진수현_201921093\obj\Debug\GUS20S_Project2_1_진수현_201921093.Form1.resources
+C:\Users\진수현\source\repos\GUS20S_Project2_1_진수현_201921093\GUS20S_Project2_1_진수현_201921093\obj\Debug\GUS20S_Project2_1_진수현_201921093.Properties.Resources.resources
+C:\Users\진수현\source\repos\GUS20S_Project2_1_진수현_201921093\GUS20S_Project2_1_진수현_201921093\obj\Debug\GUS20S_Project2_1_진수현_201921093.csproj.GenerateResource.cache
+C:\Users\진수현\source\repos\GUS20S_Project2_1_진수현_201921093\GUS20S_Project2_1_진수현_201921093\obj\Debug\GUS20S_Project2_1_진수현_201921093.csproj.CoreCompileInputs.cache
+C:\Users\진수현\source\repos\GUS20S_Project2_1_진수현_201921093\GUS20S_Project2_1_진수현_201921093\bin\Debug\GUS20S_Project2_1_진수현_201921093.exe.config
+C:\Users\진수현\source\repos\GUS20S_Project2_1_진수현_201921093\GUS20S_Project2_1_진수현_201921093\bin\Debug\GUS20S_Project2_1_진수현_201921093.exe
+C:\Users\진수현\source\repos\GUS20S_Project2_1_진수현_201921093\GUS20S_Project2_1_진수현_201921093\bin\Debug\GUS20S_Project2_1_진수현_201921093.pdb
+C:\Users\진수현\source\repos\GUS20S_Project2_1_진수현_201921093\GUS20S_Project2_1_진수현_201921093\obj\Debug\GUS20S_Project2_1_진수현_201921093.exe
+C:\Users\진수현\source\repos\GUS20S_Project2_1_진수현_201921093\GUS20S_Project2_1_진수현_201921093\obj\Debug\GUS20S_Project2_1_진수현_201921093.pdb
+C:\Users\진수현\Desktop\진수현\2020년 2학년 1학기\GUI프로그래밍\GUI20S_Project2_1_진수현_201921093\GUS20S_Project2_1_진수현_201921093\bin\Debug\GUS20S_Project2_1_진수현_201921093.exe.config
+C:\Users\진수현\Desktop\진수현\2020년 2학년 1학기\GUI프로그래밍\GUI20S_Project2_1_진수현_201921093\GUS20S_Project2_1_진수현_201921093\bin\Debug\GUS20S_Project2_1_진수현_201921093.exe
+C:\Users\진수현\Desktop\진수현\2020년 2학년 1학기\GUI프로그래밍\GUI20S_Project2_1_진수현_201921093\GUS20S_Project2_1_진수현_201921093\bin\Debug\GUS20S_Project2_1_진수현_201921093.pdb
+C:\Users\진수현\Desktop\진수현\2020년 2학년 1학기\GUI프로그래밍\GUI20S_Project2_1_진수현_201921093\GUS20S_Project2_1_진수현_201921093\obj\Debug\GUS20S_Project2_1_진수현_201921093.csprojAssemblyReference.cache
+C:\Users\진수현\Desktop\진수현\2020년 2학년 1학기\GUI프로그래밍\GUI20S_Project2_1_진수현_201921093\GUS20S_Project2_1_진수현_201921093\obj\Debug\GUS20S_Project2_1_진수현_201921093.Form1.resources
+C:\Users\진수현\Desktop\진수현\2020년 2학년 1학기\GUI프로그래밍\GUI20S_Project2_1_진수현_201921093\GUS20S_Project2_1_진수현_201921093\obj\Debug\GUS20S_Project2_1_진수현_201921093.Properties.Resources.resources
+C:\Users\진수현\Desktop\진수현\2020년 2학년 1학기\GUI프로그래밍\GUI20S_Project2_1_진수현_201921093\GUS20S_Project2_1_진수현_201921093\obj\Debug\GUS20S_Project2_1_진수현_201921093.csproj.GenerateResource.cache
+C:\Users\진수현\Desktop\진수현\2020년 2학년 1학기\GUI프로그래밍\GUI20S_Project2_1_진수현_201921093\GUS20S_Project2_1_진수현_201921093\obj\Debug\GUS20S_Project2_1_진수현_201921093.csproj.CoreCompileInputs.cache
+C:\Users\진수현\Desktop\진수현\2020년 2학년 1학기\GUI프로그래밍\GUI20S_Project2_1_진수현_201921093\GUS20S_Project2_1_진수현_201921093\obj\Debug\GUS20S_Project2_1_진수현_201921093.exe
+C:\Users\진수현\Desktop\진수현\2020년 2학년 1학기\GUI프로그래밍\GUI20S_Project2_1_진수현_201921093\GUS20S_Project2_1_진수현_201921093\obj\Debug\GUS20S_Project2_1_진수현_201921093.pdb
